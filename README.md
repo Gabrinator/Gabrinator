@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gabrinator
-- 👀 I’m interested in data science, blockchain, serverless computing, IOT, solving complex problems that make a difference in people's lives. 
-- 🌱 I’m currently learning AWS, Ruby, Scrum.
+- 👀 I’m interested in cleantech, health-tech and generally solving complex problems that make a difference in people's lives. 
+- 🌱 I’m currently learning how to build APIs with Express.js.
 <!---- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 --->
